@@ -14,7 +14,7 @@
         android:theme="@style/Theme.MyJetpackComposeStudiesApp"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity2"
+            android:name=".BusinessCardActivity"
             android:exported="true"
             android:label="@string/title_activity_main2"
             android:theme="@style/Theme.MyJetpackComposeStudiesApp">
